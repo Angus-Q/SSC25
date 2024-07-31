@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="PzP1XWoyP3Owd-PuQA4p">
-    <mxGraphModel>
+    <mxGraphModel dx="2045" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-1" target="gX0jIKrpz7-wLwVTM8e6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-1" target="gX0jIKrpz7-wLwVTM8e6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-1" target="gX0jIKrpz7-wLwVTM8e6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-1" target="gX0jIKrpz7-wLwVTM8e6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-16" value="Code Generation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gX0jIKrpz7-wLwVTM8e6-15">
+          <mxGeometry x="-0.0351" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-1" value="SwiftUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-2" value="Embedded Swift" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-3" value="Simulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-4" value="Setup &amp;amp; Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-5" value="Learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-6" value="Existing &amp;amp; Similar Platforms" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="330" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="https://xod.io/" link="https://xod.io/" id="gX0jIKrpz7-wLwVTM8e6-8">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="gX0jIKrpz7-wLwVTM8e6-6">
+            <mxGeometry x="10" y="30" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://s4a.cat/" link="https://s4a.cat/" id="gX0jIKrpz7-wLwVTM8e6-17">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="gX0jIKrpz7-wLwVTM8e6-6">
+            <mxGeometry x="10" y="50" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://picaxe.com/software/picaxe/blockly-for-picaxe/" link="https://picaxe.com/software/picaxe/blockly-for-picaxe/" id="gX0jIKrpz7-wLwVTM8e6-18">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="gX0jIKrpz7-wLwVTM8e6-6">
+            <mxGeometry x="10" y="70" width="320" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://www.tinkercad.com/circuits" link="https://www.tinkercad.com/circuits" id="gX0jIKrpz7-wLwVTM8e6-19">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="gX0jIKrpz7-wLwVTM8e6-6">
+            <mxGeometry x="10" y="90" width="210" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://nodered.org/" link="https://nodered.org/" id="gX0jIKrpz7-wLwVTM8e6-20">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="gX0jIKrpz7-wLwVTM8e6-6">
+            <mxGeometry x="10" y="110" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-9" target="gX0jIKrpz7-wLwVTM8e6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-9" value="Project using XCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gX0jIKrpz7-wLwVTM8e6-10" value="SwiftUI Playground - Smaller Ported Package with limited features for the demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
