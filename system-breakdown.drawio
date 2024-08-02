@@ -94,6 +94,12 @@
         <mxCell id="a_cXm48a7fsS-6OFjvK9-5" value="Offers a point of difference against these platforms that already exist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="400" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_cXm48a7fsS-6OFjvK9-8" target="a_cXm48a7fsS-6OFjvK9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-8" value="SceneKit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
