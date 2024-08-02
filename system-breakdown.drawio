@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="PzP1XWoyP3Owd-PuQA4p">
-    <mxGraphModel dx="1537" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,9 @@
         </mxCell>
         <mxCell id="gX0jIKrpz7-wLwVTM8e6-5" value="Learning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gX0jIKrpz7-wLwVTM8e6-6" target="a_cXm48a7fsS-6OFjvK9-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gX0jIKrpz7-wLwVTM8e6-6" value="Existing &amp;amp; Similar Platforms" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="240" width="330" height="200" as="geometry" />
@@ -84,6 +87,12 @@
         </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-3" value="Similar to the &#39;learning Swift&#39; Video Game, maybe a user could interface with different parts of a microcontroller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="380" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_cXm48a7fsS-6OFjvK9-5" target="a_cXm48a7fsS-6OFjvK9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-5" value="Offers a point of difference against these platforms that already exist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
