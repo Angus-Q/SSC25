@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="PzP1XWoyP3Owd-PuQA4p">
-    <mxGraphModel dx="1828" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-8" value="SceneKit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-10" value="2D Platform makes sense, and the microcontroller is viewed from (almost) top down)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="370" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
