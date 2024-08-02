@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="PzP1XWoyP3Owd-PuQA4p">
-    <mxGraphModel dx="1598" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,6 +249,12 @@
         </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-62" value="6." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-63" value="Is it a game? Or is it a 3D visual learning tool?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="1240" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-64" value="A puzzle game may work - but it is meant to be easy to understand and not puzzling!!!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="1300" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
