@@ -203,7 +203,7 @@
           <mxGeometry x="-30" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-45" value="Application Vision" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="1240" width="310" height="390" as="geometry" />
+          <mxGeometry x="-840" y="1260" width="310" height="390" as="geometry" />
         </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a_cXm48a7fsS-6OFjvK9-45" source="a_cXm48a7fsS-6OFjvK9-47" target="a_cXm48a7fsS-6OFjvK9-48">
           <mxGeometry relative="1" as="geometry" />
@@ -223,8 +223,32 @@
         <mxCell id="a_cXm48a7fsS-6OFjvK9-49" value="Sub-section presented that has different games that the user can interact with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a_cXm48a7fsS-6OFjvK9-45">
           <mxGeometry x="10" y="160" width="290" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a_cXm48a7fsS-6OFjvK9-45" source="a_cXm48a7fsS-6OFjvK9-50" target="a_cXm48a7fsS-6OFjvK9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a_cXm48a7fsS-6OFjvK9-50" value="Sub-section presented that has different games that the user can interact with" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a_cXm48a7fsS-6OFjvK9-45">
           <mxGeometry x="10" y="220" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-55" value="Load and play a different game scene in a macOS or iPad Application (mouse only)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a_cXm48a7fsS-6OFjvK9-45">
+          <mxGeometry x="10" y="290" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-57" value="1." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-58" value="2." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-59" value="3." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-60" value="4." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-61" value="5." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_cXm48a7fsS-6OFjvK9-62" value="6." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
